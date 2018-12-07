@@ -1,0 +1,5 @@
+1c1
+< [foo]
+\ No newline at end of file
+---
+> [baz,bar,foo]
